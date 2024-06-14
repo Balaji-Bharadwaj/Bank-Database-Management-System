@@ -24,5 +24,6 @@ Upon opening the server, you will see the following:
 
 Running the query results in getting the results as follows:
 
-![image](https://github.com/Balaji-Bharadwaj/Bank-Database-Management-System/assets/63492328/c5b5dae0-2b53-458a-ba32-85a4b3309fea)
+![image](https://github.com/Balaji-Bharadwaj/Bank-Database-Management-System/assets/63492328/c201bd5f-dcd4-4b63-972b-1854bf6b6f74)
+
 
